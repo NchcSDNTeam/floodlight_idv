@@ -25,3 +25,4 @@ net.floodlightcontroller.core.test.MockThreadPoolService
 net.floodlightcontroller.firewall.Firewall
 net.floodlightcontroller.nchc.enviconnection.ConnectionWithENVIManagement
 net.floodlightcontroller.nchc.flowdata.FlowDataManagement
+net.floodlightcontroller.nchc.opennsa.OpennsaManager
